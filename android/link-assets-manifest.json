@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DoHyeon-Regular.ttf",
+      "sha1": "8caf7749d6cee533cc03e16769e5ccf7691bc3d1"
+    },
+    {
+      "path": "assets/fonts/Exo2-VariableFont_wght.ttf",
+      "sha1": "7c73c76228003005ddc697b1e820e73bf53a8df0"
+    },
+    {
+      "path": "assets/fonts/GmarketSansTTFBold.ttf",
+      "sha1": "b52c2a5f5bf990aa0c28efc2815c7d6d9a9ea260"
+    },
+    {
+      "path": "assets/fonts/GmarketSansTTFMedium.ttf",
+      "sha1": "abf7d6ce1869bad059315fc748aa2d5d56d00892"
+    },
+    {
+      "path": "assets/fonts/IBMPlexSansKR-Light.ttf",
+      "sha1": "d5be82b3ede435597cb264612e29506a77d1a430"
+    },
+    {
+      "path": "assets/fonts/IBMPlexSansKR-Medium.ttf",
+      "sha1": "5d96cb48a96b2313b8cd73bb0fffe1a1aef1845e"
+    },
+    {
+      "path": "assets/fonts/Pretendard-Medium.ttf",
+      "sha1": "68efbed10e1229e9c9ed49d8c620a8fef87cda07"
+    }
+  ]
+}
